@@ -6,6 +6,8 @@ Django
 
 pillow
 
+django-channels(daphne)
+
 django-cleanup
 
 django-allauth
